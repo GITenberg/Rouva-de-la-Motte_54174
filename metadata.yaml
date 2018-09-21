@@ -1,0 +1,45 @@
+_repo: Rouva-de-la-Motte_54174
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anttila, Werner
+    aliases:
+    - Andelin, Verner
+    - Anttila, Verner
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '39087'
+    url: http://www.gutenberg.org/2009/agents/39087
+    wikipedia: https://fi.wikipedia.org/wiki/Werner_Anttila
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: 'Translation of first part of: Le collier de la reine. See also #54229.'
+gutenberg_issued: '2017-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54174'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Queens -- France -- Fiction'
+- !lcsh 'France -- History -- Louis XVI, 1774-1793 -- Fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: Rouva de la Motte
+url: http://www.gutenberg.org/ebooks/54174
